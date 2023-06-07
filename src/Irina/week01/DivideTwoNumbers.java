@@ -3,7 +3,7 @@ package Irina.week01;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
-public class qwe {
+public class DivideTwoNumbers {
 
 
     public static void divider(double num1, double num2) {
